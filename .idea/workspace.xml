@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48d12afe-1858-4321-a2f3-07f7d3f504cd" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestSuites.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestSuites.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+              <folding>
+                <element signature="method#InitialzeTestEnv#0;class#TestSuites#0" />
+                <element signature="method#getToDoItemList#0;class#TestSuites#0" />
+                <element signature="method#AddTodoItem#0;class#TestSuites#0" />
+                <element signature="method#AddMultipleTodoItems#0;class#TestSuites#0" />
+                <element signature="method#MarkAllTodoItemCompleted#0;class#TestSuites#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToDoItemPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ToDoItemPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="137" selection-start-line="137" selection-end-line="137" />
+              <folding>
+                <element signature="method#ToDoItemPage#0;class#ToDoItemPage#0" />
+                <element signature="method#AddNewToDo#0;class#ToDoItemPage#0" />
+                <element signature="method#MarkAllItemsCompleted#0;class#ToDoItemPage#0" />
+                <element signature="method#MarkAllItemsCompleted#1;class#ToDoItemPage#0" />
+                <element signature="method#ReToDoItem#0;class#ToDoItemPage#0" />
+                <element signature="method#CheckItemsCount#0;class#ToDoItemPage#0" />
+                <element signature="method#exists#0;class#ToDoItemPage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>txtEditItem</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/roleCreation.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/TestSuites.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ToDoItemPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="y" value="-6" />
+    <option name="width" value="888" />
+    <option name="height" value="472" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="automatedtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatedtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatedtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatedtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatedtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automatedtests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuites.MarkAllTodoItemCompleted">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestSuites.MarkAllTodoItemCompleted" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSuites" />
+      <option name="METHOD_NAME" value="MarkAllTodoItemCompleted" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestSuites.MarkTodoItemCompleted (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSuites" />
+      <option name="METHOD_NAME" value="MarkTodoItemCompleted" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestSuites.MarkTodoItemCompleted (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSuites" />
+      <option name="METHOD_NAME" value="MarkTodoItemCompleted" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestSuites.MarkTodoItemCompleted (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSuites" />
+      <option name="METHOD_NAME" value="MarkTodoItemCompleted" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestSuites.MarkTodoItemCompleted" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSuites" />
+      <option name="METHOD_NAME" value="MarkTodoItemCompleted" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestSuites.MarkTodoItemCompleted" />
+      <item itemvalue="TestNG.TestSuites.MarkTodoItemCompleted (1)" />
+      <item itemvalue="TestNG.TestSuites.MarkTodoItemCompleted (2)" />
+      <item itemvalue="TestNG.TestSuites.MarkTodoItemCompleted (3)" />
+      <item itemvalue="TestNG.TestSuites.MarkAllTodoItemCompleted" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuites.MarkAllTodoItemCompleted" />
+        <item itemvalue="TestNG.TestSuites.MarkTodoItemCompleted (3)" />
+        <item itemvalue="TestNG.TestSuites.MarkTodoItemCompleted" />
+        <item itemvalue="TestNG.TestSuites.MarkTodoItemCompleted (2)" />
+        <item itemvalue="TestNG.TestSuites.MarkTodoItemCompleted (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSuites_MarkTodoItemCompleted - 2019.03.13 at 23h 59m 45s.xml">
+      <configuration name="TestSuites.MarkTodoItemCompleted" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuites_MarkTodoItemCompleted - 2019.03.14 at 00h 01m 25s.xml">
+      <configuration name="TestSuites.MarkTodoItemCompleted" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuites_MarkTodoItemCompleted - 2019.03.14 at 00h 12m 19s.xml">
+      <configuration name="TestSuites.MarkTodoItemCompleted" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuites_MarkTodoItemCompleted_(1) - 2019.03.14 at 00h 14m 34s.xml">
+      <configuration name="TestSuites.MarkTodoItemCompleted (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuites_MarkTodoItemCompleted - 2019.03.14 at 00h 15m 03s.xml">
+      <configuration name="TestSuites.MarkTodoItemCompleted" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuites_MarkTodoItemCompleted_(2) - 2019.03.14 at 00h 19m 54s.xml">
+      <configuration name="TestSuites.MarkTodoItemCompleted (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuites_MarkTodoItemCompleted - 2019.03.14 at 00h 21m 58s.xml">
+      <configuration name="TestSuites.MarkTodoItemCompleted" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuites_MarkTodoItemCompleted - 2019.03.14 at 00h 33m 56s.xml">
+      <configuration name="TestSuites.MarkTodoItemCompleted" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuites_MarkTodoItemCompleted_(3) - 2019.03.14 at 00h 46m 44s.xml">
+      <configuration name="TestSuites.MarkTodoItemCompleted (3)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuites_MarkAllTodoItemCompleted - 2019.03.14 at 00h 49m 15s.xml">
+      <configuration name="TestSuites.MarkAllTodoItemCompleted" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3290938" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3290938" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290938" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26427525" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>response.asString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestSuites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="method#InitialzeTestEnv#0;class#TestSuites#0" />
+            <element signature="method#getToDoItemList#0;class#TestSuites#0" />
+            <element signature="method#AddTodoItem#0;class#TestSuites#0" />
+            <element signature="method#AddMultipleTodoItems#0;class#TestSuites#0" />
+            <element signature="method#MarkAllTodoItemCompleted#0;class#TestSuites#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roleCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roleCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta3/testng-7.0.0-beta3.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoItemPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+          <folding>
+            <element signature="method#ToDoItemPage#0;class#ToDoItemPage#0" />
+            <element signature="method#AddNewToDo#0;class#ToDoItemPage#0" />
+            <element signature="method#MarkAllItemsCompleted#0;class#ToDoItemPage#0" />
+            <element signature="method#MarkAllItemsCompleted#1;class#ToDoItemPage#0" />
+            <element signature="method#ReToDoItem#0;class#ToDoItemPage#0" />
+            <element signature="method#CheckItemsCount#0;class#ToDoItemPage#0" />
+            <element signature="method#exists#0;class#ToDoItemPage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestSuites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+          <folding>
+            <element signature="method#InitialzeTestEnv#0;class#TestSuites#0" />
+            <element signature="method#getToDoItemList#0;class#TestSuites#0" />
+            <element signature="method#AddTodoItem#0;class#TestSuites#0" />
+            <element signature="method#AddMultipleTodoItems#0;class#TestSuites#0" />
+            <element signature="method#MarkAllTodoItemCompleted#0;class#TestSuites#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
